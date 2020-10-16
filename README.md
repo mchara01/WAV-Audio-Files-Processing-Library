@@ -1,6 +1,6 @@
 ## Library for Processing WAV Audio Files
 
-### Introduction
+Information about WAV files and their structure can be found here: http://en.wikipedia.org/wiki/WAV
 
 ### Available functionalities
 Options   Information
@@ -25,6 +25,7 @@ Options   Information
 Compile: 
 `make clean`
 `make`
+(change PROJ variable name to your project name)
 
 Execute:
 `./wavengine <-option> sound1.wav [ sound2.wav sound3.wav ...]`
