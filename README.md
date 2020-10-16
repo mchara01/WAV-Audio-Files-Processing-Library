@@ -3,23 +3,23 @@
 ### Introduction
 
 ### Available functionalities
-Options - Information
+Options   Information
 
--list Meta-information export for a list of .wav audio files
+-list   Meta-information export for a list of .wav audio files
 
--mono Converts the audio file from stereo (existence of 2 channels) to monophonic (existence of only one channel). 
+-mono   Converts the audio file from stereo (existence of 2 channels) to monophonic (existence of only one channel). 
 
--mix Mixing of two tracks
+-mix    Mixing of two tracks
 
--chop Slices an audio file from one given second to another.
+-chop   Slices an audio file from one given second to another.
 
--reverse Inverts the data of an audio file.
+-reverse    Inverts the data of an audio file.
 
--similarity Checks the similarity per byte of the given audio files. The similarity test is based on two algorithms: (a) the Euclidean matching technique and (b) Longest Common Subsequence (LCSS) matching.
+-similarity   Checks the similarity per byte of the given audio files. The similarity test is based on two algorithms: (a) the Euclidean matching technique and (b) Longest Common Subsequence (LCSS) matching.
 
-–encodeText Hides a text file inside a wav audio file.
+–encodeText   Hides a text file inside a wav audio file.
 
-–decodeText Decrypt / Recover secret text from a WAV audio file
+–decodeText   Decrypt / Recover secret text from a WAV audio file
 
 ### Usage
 Compile: 
