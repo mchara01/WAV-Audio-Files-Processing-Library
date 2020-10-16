@@ -5,13 +5,13 @@
 ### Available functionalities
 Options   Information
 
--list   Meta-information export for a list of .wav audio files
+-list<br />Meta-information export for a list of .wav audio files
 
--mono   Converts the audio file from stereo (existence of 2 channels) to monophonic (existence of only one channel). 
+-mono<br />Converts the audio file from stereo (existence of 2 channels) to monophonic (existence of only one channel). 
 
--mix    Mixing of two tracks
+-mix<br />Mixing of two tracks
 
--chop   Slices an audio file from one given second to another.
+-chop<br />Slices an audio file from one given second to another.
 
 -reverse    Inverts the data of an audio file.
 
